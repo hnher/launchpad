@@ -6,7 +6,7 @@
 >
 > 1. git clone https://github.com/retrX/launchpad.git
 > 2. chmod +x launchpadSetting.sh && chmod +x launchpadReset.sh
-> 3. echo "export PATH="/Tools/launchpad:$PATH"
+> 3. echo "export PATH="/Tools/launchpad:$PATH" >> ~/.bash_profile
 >
 #### launchpadSetting.sh
 >
